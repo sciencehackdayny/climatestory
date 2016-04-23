@@ -4,7 +4,7 @@
 ## TEAM MEMBERS
 
 * Mari Galicer
-* Maggie Lovez
+* Maggie Love
 
 
 ## PROBLEM 
